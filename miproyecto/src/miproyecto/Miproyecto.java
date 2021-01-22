@@ -17,6 +17,7 @@ public class Miproyecto {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("mi primer proyecto");
+        System.out.println("esto es lo del branch que es como si lo hicieras por otra rama");
     }
     
 }
